@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Zo Tina
 
 ## 👨‍💻 About Me
-I'm a developer passionate about project design, specializing in client needs analysis, interface design, and database architecture. Currently in my third year at [ITUniversity Madagascar](https://www.ituniversity-mg.com/), I combine technical expertise with project management skills to create innovative solutions.
+I'm a developer with a strong passion for database architecture. My expertise lies in designing robust database systems, analyzing system requirements, and architecting comprehensive solutions. Currently in my third year at [ITUniversity Madagascar](https://www.ituniversity-mg.com/), I combine my database engineering skills with project management expertise to build scalable and efficient systems.
+
 
 ## 🛠 Technical Skills
 
