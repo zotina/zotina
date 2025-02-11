@@ -47,12 +47,6 @@ I'm a developer with a strong passion for database architecture. My expertise li
 - Developed with Laravel
 - [View Project](https://github.com/zotina/gestion-Rh.git)
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zotina&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zotina&layout=compact&theme=radical)
-
 ## 📫 Contact
 - LinkedIn: [Zo Tina Rasetrarinjanahary](https://linkedin.com/in/zo-tina-rasetrarinjanahary-659638272)
 - Email: zotinafiti@gmail.com
